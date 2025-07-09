@@ -1,13 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Home from './pages/Home';
-import WhyChooseUs from './pages/WhyChooseUs';
-import Delivers from './pages/Delivers';
-import ClientReview from './pages/ClientReview';
-import Pricing from './pages/Pricing';
+// import WhyChooseUs from './pages/WhyChooseUs';
+// import Delivers from './pages/Delivers';
+// import ClientReview from './pages/ClientReview';
+// import Pricing from './pages/Pricing';
 import ContactUs from './pages/ContactUs';
-import BannerBottom from './pages/BannerBottom';
+// import BannerBottom from './pages/BannerBottom';
 import { Footer } from './pages/Footer';
 import CopyrightBanner from './pages/CopyrightBanner';
 import PricingMain from './pages/PricingMain';
@@ -20,7 +20,7 @@ import TermsOfUse from './pages/TermsOfUse';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import Portfolio from './pages/Portfolio'; 
 
-import { Routes, BrowserRouter, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   const [state, setState] = React.useState(0);
