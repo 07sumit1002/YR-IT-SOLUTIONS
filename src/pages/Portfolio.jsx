@@ -31,7 +31,7 @@ const projects = [
     title: "Law Firm – Legal Services Website",
     description:
       "Modern legal services website offering expert legal advice, case support, and consultation. Designed for law firms and attorneys to showcase services with a clean, professional look. Mobile-friendly & fast-loading.",
-    link: "https://law-v2.vercel.app/",
+    link: "https://gcslawfirm.in/",
     image: project4,
     
   }
