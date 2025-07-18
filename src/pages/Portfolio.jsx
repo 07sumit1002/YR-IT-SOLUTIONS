@@ -3,6 +3,8 @@ import project1 from '../assets/project1.png';
 import project2 from '../assets/project2.png';
 import project3 from '../assets/law.png';
 import project4 from '../assets/project4.png';
+import project5 from '../assets/project5.png';
+import project6 from '../assets/project6.png';
 import { Link } from 'react-router-dom';
 
 const projects = [
@@ -33,6 +35,22 @@ const projects = [
       "Modern legal services website offering expert legal advice, case support, and consultation. Designed for law firms and attorneys to showcase services with a clean, professional look. Mobile-friendly & fast-loading.",
     link: "https://gcslawfirm.in/",
     image: project4,
+    
+  },
+  {
+    title: "All India Chamber of Commerce",
+    description:
+      "Modern business chamber website showcasing national initiatives, events, and member services. Designed for All India Chamber of Commerce to highlight trade support, policy advocacy, and networking. Sleek, responsive layout with fast performance and easy content management.",
+    link: "https://aicee-main.vercel.app/",
+    image: project5,
+    
+  },
+  {
+    title: "Istiyaq Facility",
+    description:
+      "Modern interior design website for Istiyaq Facility, showcasing premium design services and transformations. Built to highlight creativity, expertise, and client success. Sleek visuals, responsive layout, and fast-loading experience for users seeking beautiful, functional spaces they’ll love.",
+    link: "https://istyaqfacility.vercel.app/",
+    image: project6,
     
   }
 ];
